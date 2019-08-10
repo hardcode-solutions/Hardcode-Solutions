@@ -1,0 +1,2 @@
+# Hardcode-Solutions
+Hardcode Solutions
